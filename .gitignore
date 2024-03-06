@@ -1,0 +1,18 @@
+/target/
+*.lock
+*.log
+/src/*/target/
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/src/*/shelf/
+/src/*/workspace.xml
+# Editor-based HTTP Client requests
+/src/*/httpRequests/
+# Datasource local storage ignored files
+/src/*/dataSources/
+/src/*/dataSources.local.xml
